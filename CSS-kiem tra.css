@@ -1,0 +1,89 @@
+.header
+{
+    text-align: center;
+    font-size: large;
+}
+.cot
+{
+    width: 600px;
+    height: 750px;
+    
+    
+}
+.cot img
+{
+    left: 20%;
+    width: 450px;
+    height:600px;
+}
+.qc
+{
+    text-align: right;
+}
+.lienket img
+{
+
+    width: 50px;
+    height: 50px;
+    
+}
+.lienket a
+{
+    font-weight: bold;
+    font-size: large;
+    list-style: none;
+    text-decoration: none;
+    display: block;
+}
+
+    
+.mainmenu
+{
+    text-align: center;
+    background-color: violet;
+}
+
+.mainmenu ul li
+{
+    font-weight: bold;
+    font-size: large;
+    list-style: none;
+    display: inline-block;
+    width: 220px;
+    height: 40px;
+    line-height: 40px;
+}
+.mainmenu ul li a
+{
+    text-decoration: none;
+    display: block;
+}
+ 
+
+.than b
+{
+    text-align: center;
+    font-size: 30px;
+}
+.footer
+{
+    background-color:#ccc;
+    text-align:center;
+    padding:25px;
+    font-size:18px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.vanban
+{
+    text-align:center;
+}
+.vanban img
+{
+    align-items: center;
+    width: 1280px;
+    height: 600px;
+}
+.stm
+{
+    text-align: center;
+}
